@@ -1,0 +1,8 @@
+{
+  "name": "AI Smart Pocket",
+  "description": "AI-powered personal budget pocket manager and recommendation assistant with real-time analytics and financial guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
